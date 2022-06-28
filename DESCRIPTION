@@ -1,0 +1,16 @@
+Package: chinaWeather
+Type: Package
+Title: a visualized package for china weather
+Version: 0.0.0.9000
+Authors@R: 
+    person("Yao", "Chen", , "ychen.zju@outlook.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: a visualized package for china weather
+License: GPL-2
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
+Date: 2022-06-28
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
